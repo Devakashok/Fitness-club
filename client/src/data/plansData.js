@@ -15,6 +15,7 @@ export const plansData = [
     features: [
       "1 Month of Exercise",
       "Free consultaion to coaches",
+      "Pay 2966 and get 1 month free",
       "Save upto ₹ 432",
     ],
   },
@@ -34,6 +35,7 @@ export const plansData = [
     features: [
       "3 Month of Exercise",
       "Free consultaion of Coaches",
+      "Pay 6699 and get 2 month free",
       "Save upto ₹ 716",
     ],
   },
@@ -53,6 +55,7 @@ export const plansData = [
     features: [
       "6 Month of Exercise",
       "Consultation of Private Coach",
+      "Pay 12999 and get 6 month free",
       "Save upto ₹ 2999",
     ],
   },

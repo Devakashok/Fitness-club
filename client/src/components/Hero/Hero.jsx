@@ -7,7 +7,7 @@ import Heart from "../../assets/heart.png";
 import Calories from "../../assets/calories.png"
 const Hero = () => {
   return (
-    <div className='hero'>
+    <div className='hero' id='home'>
       <div className="blur hero-blur"></div>
       <div className="left-h">
         <Header/>
@@ -50,7 +50,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="right-h">
-        <button className='btn'>Join Now</button>
+       
         <div className="heart-rate">
           <img src={Heart} alt=""/>
           <span>Heart Rate</span>
